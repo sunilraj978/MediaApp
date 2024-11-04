@@ -1,0 +1,23 @@
+1. TailWind:
+npm install nativewind
+npm install --save-dev tailwindcss@3.3.2
+npx tailwindcss init
+
+2. Responsive for all Screens
+npm i react-native-responsive-screen
+
+3. For animation [React Native Re-animated]
+https://docs.swmansion.com/react-native-reanimated/
+
+4. Vector Icons
+npm i react-native-vector-icons
+
+5. carasol
+npm i react-native-snap-carousel
+
+6. Get Free API
+https://rapidapi.com/
+
+
+7. In flatList like instagram and twitter refresh
+use refreshControl={<RefreshControl />}
